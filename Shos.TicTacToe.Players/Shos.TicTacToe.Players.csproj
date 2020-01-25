@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Shos.TicTacToe.Core\Shos.TicTacToe.Core.csproj" />
+    <ProjectReference Include="..\Shos.TicTacToeML.Model\Shos.TicTacToeML.Model.csproj" />
   </ItemGroup>
 
 </Project>
