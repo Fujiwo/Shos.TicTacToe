@@ -6,6 +6,11 @@
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <Authors>Fujio Kojima</Authors>
+    <Company>Sho's Software</Company>
+    <Copyright>Copyright © 2020 Sho's Software</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Fujiwo/Shos.TicTacToe</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

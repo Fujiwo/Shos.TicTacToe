@@ -3,5 +3,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
+    <RepositoryUrl>https://github.com/Fujiwo/Shos.TicTacToe</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>Copyright © 2020 Sho's Software</Copyright>
+    <Company>Sho's Software</Company>
+    <Authors>Fujio Kojima</Authors>
   </PropertyGroup>
 </Project>
